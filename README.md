@@ -6,11 +6,16 @@ I've been immersed in the world of IT since 2015, navigating through various tec
 Started my coding journey with Python 🐍, developing a few little games on Python. Currently diving deep into JavaScript and web development through the The Odin Project curriculum.
 
 ## What I'm up to next:
-- Learn NodeJS.
-- Learn React.
-- Complete CS50.
+- Learn NodeJS
+- Learn React
+- Learn Bootstrap
+- Complete CS50
+- Deep dive into data structures and algorithms
 - Learn C++
-- tbd...
+- continous learning and exploration of technologies!
+
+## Projects:
+
 
 ## Other interests:
 ⚡ Calisthenics!
