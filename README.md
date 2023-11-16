@@ -28,7 +28,7 @@ Started my coding journey with Python 🐍, developing a few little games on Pyt
 - [Snake Survival](https://github.com/sevleo/snake_survival) (documentation yet to be added)
 
 
-## 🔧 Technologies & Tools
+## Technologies & Tools 🔧
 <table>
   <tr>
     <td align="center" height="108" width="108">
@@ -99,6 +99,21 @@ Started my coding journey with Python 🐍, developing a few little games on Pyt
   </tr>
 </table>
 
+
+## Stats 📈
+
+
+
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevleo&theme=react&layout=compact"
+/>
+</br>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=sevleo&&theme=react&&hide_border=true"
+/>
+<br/>
+![](https://komarev.com/ghpvc/?username=sevleo)
 
 ## Other interests:
 ⚡ Calisthenics!
