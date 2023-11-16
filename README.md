@@ -2,11 +2,11 @@
 I've been immersed in the world of IT since 2015, navigating through various technical and semi-technical roles. However, it was at the start of 2023 that I discovered my true passion for software development.
 
 
-## My Journey:
+## My Journey
 Started my coding journey with Python 🐍, developing a few little games on Python. Currently diving deep into JavaScript and web development through the The Odin Project curriculum.
 
 
-## What I'm up to next:
+## What I'm up to next
 - Learn NodeJS
 - Learn React
 - Learn Bootstrap
@@ -16,7 +16,7 @@ Started my coding journey with Python 🐍, developing a few little games on Pyt
 - continous learning and exploration of technologies!
   
 
-## Projects:
+## Projects
 - [Restaurant Page](https://github.com/sevleo/restaurant_page)
 - [Tic Tac Toe](https://github.com/sevleo/tic_tac_toe)
 - [Library](https://github.com/sevleo/library)
@@ -101,10 +101,6 @@ Started my coding journey with Python 🐍, developing a few little games on Pyt
 
 
 ## Stats 📈
-
-
-
-
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevleo&theme=react&layout=compact"
 />
@@ -115,7 +111,8 @@ Started my coding journey with Python 🐍, developing a few little games on Pyt
 <br/>
 ![](https://komarev.com/ghpvc/?username=sevleo)
 
-## Other interests:
+
+## Other interests
 ⚡⚡⚡ Calisthenics
 </br>
 ⚡⚡ Travel
