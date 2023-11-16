@@ -16,6 +16,13 @@ Started my coding journey with Python 🐍, developing a few little games on Pyt
 
 ## Projects:
 - [Restaurant Page](https://github.com/sevleo/restaurant_page)
+- [Library](https://github.com/sevleo/library)
+- [Tic Tac Toe](https://github.com/sevleo/tic_tac_toe)
+- [Admin Dashboard](https://github.com/sevleo/admin_dashboard)
+- [Sign-up Form](https://github.com/sevleo/Sign-up_Form)
+- [Calculator](https://github.com/sevleo/calculator)
+- [Etch-a-Sketch](https://github.com/sevleo/Etch-a-Sketch)
+- [Rock Paper Scissors](https://github.com/sevleo/rock-paper-scissors)
 
 
 ## Other interests:
