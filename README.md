@@ -116,4 +116,8 @@ Started my coding journey with Python 🐍, developing a few little games on Pyt
 ![](https://komarev.com/ghpvc/?username=sevleo)
 
 ## Other interests:
-⚡ Calisthenics!
+⚡⚡⚡ Calisthenics
+⚡⚡ Travel
+⚡⚡ Literature
+⚡ Spanish language
+⚡ Yoga
