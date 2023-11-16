@@ -117,7 +117,11 @@ Started my coding journey with Python 🐍, developing a few little games on Pyt
 
 ## Other interests:
 ⚡⚡⚡ Calisthenics
+</br>
 ⚡⚡ Travel
+</br>
 ⚡⚡ Literature
+</br>
 ⚡ Spanish language
+</br>
 ⚡ Yoga
