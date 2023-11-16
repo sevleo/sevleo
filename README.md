@@ -17,7 +17,7 @@ Started my coding journey with Python 🐍, developing a few little games on Pyt
 ## Projects:
 - [Restaurant Page](https://github.com/sevleo/restaurant_page)
 - [Tic Tac Toe](https://github.com/sevleo/tic_tac_toe)
-- - [Library](https://github.com/sevleo/library)
+- [Library](https://github.com/sevleo/library)
 - [Admin Dashboard](https://github.com/sevleo/admin_dashboard)
 - [Sign-up Form](https://github.com/sevleo/Sign-up_Form)
 - [Calculator](https://github.com/sevleo/calculator)
