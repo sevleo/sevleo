@@ -15,6 +15,7 @@ Started my coding journey with Python 🐍, developing a few little games on Pyt
 - continous learning and exploration of technologies!
 
 ## Projects:
+- [Restaurant Page] (https://github.com/sevleo/restaurant_page)
 
 
 ## Other interests:
