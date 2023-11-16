@@ -17,6 +17,7 @@ Started my coding journey with Python 🐍, developing a few little games on Pyt
   
 
 ## Projects
+- [Nova Task](https://github.com/sevleo/nova_task) (in progress...)
 - [Restaurant Page](https://github.com/sevleo/restaurant_page)
 - [Tic Tac Toe](https://github.com/sevleo/tic_tac_toe)
 - [Library](https://github.com/sevleo/library)
