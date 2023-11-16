@@ -26,7 +26,7 @@ Started my coding journey with Python 🐍, developing a few little games on Pyt
 - [Snake Survival](https://github.com/sevleo/snake_survival) (documentation yet to be added)
 
 
-# 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 
 <table>
   <tr>
