@@ -1,5 +1,5 @@
 # Hola 👋 I'm Sev, a Full Stack Engineer!
-I've been immersed in the world of IT since 2015, navigating through various technical and semi-technical roles. However, it was at the start of 2023 that I discovered my true passion for development.
+I've been immersed in the world of IT since 2015, navigating through various technical and semi-technical roles. However, it was at the start of 2023 that I discovered my true passion for software development.
 
 
 ## My Journey:
