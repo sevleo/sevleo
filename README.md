@@ -8,11 +8,17 @@ I initially embarked on my coding journey with Python 🐍, focusing on crafting
 
 ## What I'm up to next
 🚀 Mastering NodeJS
+</br>
 🌟 Exploring React
+</br>
 🎨 Developing proficiency in Bootstrap
+</br>
 📚 Completing CS50
+</br>
 🧠 Diving into data structures and algorithms
+</br>
 🔍 Exploring the intricacies of C++
+</br>
 📖 Continuously learning and exploring new technologies!
   
 
