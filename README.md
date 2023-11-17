@@ -1,19 +1,19 @@
 # Hola 👋 I'm Sev, a Full Stack Engineer!
-I've been immersed in the world of IT since 2015, navigating through various technical and semi-technical roles. However, it was at the start of 2023 that I discovered my true passion for software development.
+My journey in the IT realm began in 2015, leading me through a diverse range of technical roles. However, it was in early 2023 that I discovered my genuine passion for software development.
 
 
 ## My Journey
-Started my coding journey with Python 🐍, developing a few little games on Python. Currently diving deep into JavaScript and web development through the The Odin Project curriculum.
+I initially embarked on my coding journey with Python 🐍, focusing on crafting various small games. Currently, I'm immersing myself in JavaScript and web development through The Odin Project curriculum.
 
 
 ## What I'm up to next
-- Learn NodeJS
-- Learn React
-- Learn Bootstrap
-- Complete CS50
-- Deep dive into data structures and algorithms
-- Learn C++
-- continous learning and exploration of technologies!
+🚀 Mastering NodeJS
+🌟 Exploring React
+🎨 Developing proficiency in Bootstrap
+📚 Completing CS50
+🧠 Diving into data structures and algorithms
+🔍 Exploring the intricacies of C++
+📖 Continuously learning and exploring new technologies!
   
 
 ## Projects
