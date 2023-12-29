@@ -23,6 +23,7 @@ I initially embarked on my coding journey with Python 🐍, focusing on crafting
   
 
 ## Projects
+- [Battleship](https://github.com/sevleo/battleship)
 - [NovaClima](https://github.com/sevleo/NovaClima)
 - [Nova Task](https://github.com/sevleo/nova_task)
 - [Restaurant Page](https://github.com/sevleo/restaurant_page)
