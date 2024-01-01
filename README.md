@@ -107,7 +107,7 @@ I initially embarked on my coding journey with Python 🐍, focusing on crafting
     </td>
         <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/jest-original.svg"
         width="48"
         height="48"
         alt="Jest"
