@@ -112,7 +112,7 @@ I initially embarked on my coding journey with Python 🐍, focusing on crafting
         height="48"
         alt="Jest"
       />
-      <br /><strong>Webpack</strong>
+      <br /><strong>Jest</strong>
     </td>
   </tr>
 </table>
