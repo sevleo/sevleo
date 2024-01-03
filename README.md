@@ -130,13 +130,3 @@ I initially embarked on my coding journey with Python 🐍, focusing on crafting
 ![](https://komarev.com/ghpvc/?username=sevleo)
 
 
-## Other interests
-⚡⚡⚡ Calisthenics
-</br>
-⚡⚡ Travel
-</br>
-⚡⚡ Literature
-</br>
-⚡ Spanish language
-</br>
-⚡ Yoga
