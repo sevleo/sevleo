@@ -7,11 +7,11 @@ I initially embarked on my coding journey with Python 🐍, focusing on crafting
 
 
 ## What I'm up to next
-🌟 Mastering React
+🌟 React
 </br>
-🚀 Mastering NodeJS
+🚀 NodeJS
 </br>
-📚 Completing CS50
+📚 CS50
 </br>
 
   
