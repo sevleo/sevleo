@@ -23,6 +23,8 @@ I initially embarked on my coding journey with Python 🐍, focusing on crafting
   
 
 ## Projects
+- [Memory Card](https://github.com/sevleo/memory-card)
+- [CV App](https://github.com/sevleo/cv-app)
 - [Battleship](https://github.com/sevleo/battleship)
 - [NovaClima](https://github.com/sevleo/NovaClima)
 - [Nova Task](https://github.com/sevleo/nova_task)
