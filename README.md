@@ -17,6 +17,7 @@ I initially embarked on my coding journey with Python 🐍, focusing on crafting
   
 
 ## Projects
+- [Shopping Cart](https://github.com/sevleo/shopping-cart)
 - [Memory Card](https://github.com/sevleo/memory-card)
 - [CV App](https://github.com/sevleo/cv-app)
 - [Battleship](https://github.com/sevleo/battleship)
