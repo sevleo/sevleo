@@ -21,7 +21,6 @@ I initially embarked on my coding journey with Python 🐍, focusing on crafting
 - [Calculator](https://github.com/sevleo/calculator)
 - [Etch-a-Sketch](https://github.com/sevleo/Etch-a-Sketch)
 - [Rock Paper Scissors](https://github.com/sevleo/rock-paper-scissors)
-- [Snake Survival](https://github.com/sevleo/snake_survival) (documentation yet to be added)
 
 
 ## Technologies & Tools 🔧
