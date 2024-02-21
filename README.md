@@ -3,20 +3,10 @@ My journey in the IT realm began in 2015, leading me through a diverse range of 
 
 
 ## My Journey
-I initially embarked on my coding journey with Python 🐍, focusing on crafting various small games. Currently, I'm immersing myself in JavaScript and web development through The Odin Project curriculum.
-
-
-## What I'm up to next
-🌟 React
-</br>
-🚀 NodeJS
-</br>
-📚 CS50
-</br>
-
+I initially embarked on my coding journey with Python 🐍, focusing on crafting various small games. Then I spent 8 months going through The Odin Project curriculum, mastering HTML, CSS, JavaScript, TypeScript, React, and NodeJS. Currently, I'm working on a personal project which I'm targeting to release in the Apple Store by June 2024.
   
 
-## Projects
+## Study projects completed between June 2023 and February 2024:
 - [Shopping Cart](https://github.com/sevleo/shopping-cart)
 - [Memory Card](https://github.com/sevleo/memory-card)
 - [CV App](https://github.com/sevleo/cv-app)
