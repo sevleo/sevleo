@@ -6,7 +6,7 @@ My journey in the IT realm began in 2015, leading me through a diverse range of 
 I initially embarked on my coding journey with Python 🐍, focusing on crafting cute little games with Pygame. Then I spent 8 months going through The Odin Project curriculum, mastering HTML, CSS, JavaScript, TypeScript, React, and NodeJS. Currently, I'm working on a personal project which I'm targeting to release in the Apple Store by June 2024.
 
 ## Currently working on:
-[Shopping Cart]([cart](https://github.com/sevleo/WorkoutBuilder))
+[Shopping Cart](https://github.com/sevleo/WorkoutBuilder)
   
 
 ## Study projects completed between June 2023 and February 2024:
