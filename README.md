@@ -4,7 +4,9 @@
 Currently working on [YoGato](https://github.com/sevleo/WorkoutBuilder) - yoga sequence builder with voice announcements.
   
 
-## Study projects completed between June 2023 and February 2024:
+
+
+## Other projects:
 - [Shopping Cart](https://github.com/sevleo/shopping-cart)
 - [Memory Card](https://github.com/sevleo/memory-card)
 - [CV App](https://github.com/sevleo/cv-app)
