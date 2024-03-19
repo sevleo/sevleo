@@ -113,6 +113,5 @@ Currently working on [YoGato](https://github.com/sevleo/WorkoutBuilder) - yoga s
   src="https://github-readme-streak-stats.herokuapp.com/?user=sevleo&&theme=react&&hide_border=true"
 />
 <br/>
-![](https://komarev.com/ghpvc/?username=sevleo)
 
 
