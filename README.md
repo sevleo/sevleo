@@ -1,7 +1,7 @@
 # Hola 👋 I'm Sev, a Full Stack Engineer!
 
 
-Currently working on [YoGato](https://github.com/sevleo/WorkoutBuilder) - yoga sequence builder with voice announcements.
+Currently working on [YoGato](https://github.com/sevleo/YoGato) - yoga sequence builder with voice announcements.
   
 
 
