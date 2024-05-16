@@ -35,9 +35,9 @@ Currently working on [YoGato](https://github.com/sevleo/YoGato) - yoga sequence 
 ### Languages
 [![Typescript][Typescript]][Typescript-url]
 [![Javascript][Javascript]][Javascript-url]
-Python
-HTML5
-CSS3
+[![Python]][Python-url]
+[![HTML5][HTML5]]
+[![CSS3][CSS3]]
 
 ### Frameworks/Libraries
 [![React][React.js]][React-url]
@@ -92,3 +92,7 @@ date-fns
 [npm-url]: https://www.npmjs.com/
 [webpack]: https://img.shields.io/badge/webpack-20232A?style=for-the-badge&logo=webpack
 [webpack-url]: https://webpack.js.org/
+[Python]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=Python
+[Python-url]: https://www.python.org/
+[HTML5]: https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=HTML5
+[CSS3]: https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=CSS3
