@@ -53,12 +53,11 @@ Currently working on [YoGato](https://github.com/sevleo/YoGato) - yoga sequence 
 
 
 ### Other
-Jest
-DND Kit
-MongooseJs
-PassportJs
-date-fns
-
+[![Jest][Jest]][Jest-url]
+[![DNDKit][DNDKit]][DNDKit-url]
+[![MongooseJs][MongooseJs]][MongooseJs-url]
+[![PassportJs][PassportJs]][PassportJs-url]
+[![datefns][datefns]][datefns-url]
 
 
 ## Stats 📈
@@ -102,6 +101,13 @@ date-fns
 [Netlify]: https://img.shields.io/badge/Netlify-20232A?style=for-the-badge&logo=Netlify
 [Netlify-url]: https://www.netlify.com/
 
-
-[![Adaptableio][Adaptableio]][Adaptableio-url]
-[![Netlify][Netlify]][Netlify-url]
+[Jest]: https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=Jest
+[Jest-url]: https://www.netlify.com/
+[DNDKit]: https://img.shields.io/badge/DND-Kit-20232A?style=for-the-badge&logo=DNDKit
+[DNDKit-url]: https://dndkit.com/
+[MongooseJs]: https://img.shields.io/badge/MongooseJs-20232A?style=for-the-badge&logo=MongooseJs
+[MongooseJs-url]: https://mongoosejs.com/
+[PassportJs]: https://img.shields.io/badge/PassportJs-20232A?style=for-the-badge&logo=PassportJs
+[PassportJs-url]: https://www.passportjs.org/
+[datefns]: https://img.shields.io/badge/datefns-20232A?style=for-the-badge&logo=datefns
+[datefns-url]: https://date-fns.org/
