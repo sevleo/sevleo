@@ -33,7 +33,7 @@ Currently working on [YoGato](https://github.com/sevleo/YoGato) - yoga sequence 
 [![webpack][webpack]][webpack-url]
 
 ### Languages
-[![Typescript][Typescript]][Typescript-url]
+[![Typescript][asdasdas]][Typescript-url]
 [![Javascript][Javascript]][Javascript-url]
 [![Python][Python]][Python-url]
 [![HTML5][HTML5]]
