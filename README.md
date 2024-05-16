@@ -24,6 +24,14 @@ Currently working on [YoGato](https://github.com/sevleo/YoGato) - yoga sequence 
 
 
 ## Technologies & Tools 🔧
+
+[![React][React.js]][React-url]
+[![NodeJs][Node.js]][Node-url]
+[![Typescript][Typescript]][Typescript-url]
+[![Javascript][Javascript]][Javascript-url]
+[![TailwindCSS][TailwindCSS]][TailwindCSS-url]
+[![MongoDB][MongoDB]][MongoDB-url]
+
 <table>
   <tr>
     <td align="center" height="108" width="108">
@@ -114,4 +122,16 @@ Currently working on [YoGato](https://github.com/sevleo/YoGato) - yoga sequence 
 />
 <br/>
 
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[Node.js]: https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=#5FA04E
+[Node-url]: https://nodejs.org/en
+[Typescript]: https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=#3178C6
+[Typescript-url]: https://www.typescriptlang.org/
+[Javascript]: https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=#F7DF1E
+[Javascript-url]: https://www.javascript.com/
+[TailwindCSS]: https://img.shields.io/badge/tailwindcss-20232A?style=for-the-badge&logo=tailwindcss&logoColor=#06B6D4
+[TailwindCSS-url]: https://tailwindcss.com/
+[MongoDB]: https://img.shields.io/badge/mongodb-20232A?style=for-the-badge&logo=mongodb
+[MongoDB-url]: https://www.mongodb.com/
 
