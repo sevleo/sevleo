@@ -26,7 +26,8 @@ Currently working on [YoGato](https://github.com/sevleo/YoGato) - yoga sequence 
 ## My Stack
 
 ### Tools
-Git GitHub VSCode npm webpack
+[![Git][Git]][Git-url]
+GitHub VSCode npm webpack
 
 ### Languages
 [![Typescript][Typescript]][Typescript-url]
@@ -56,92 +57,6 @@ date-fns
 
 
 
-
-
-
-
-
-
-<table>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-        width="48"
-        height="48"
-        alt="HTML"
-      />
-      <br /><strong>HTML5</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-        width="48"
-        height="48"
-        alt="CSS3"
-      />
-      <br /><strong>CSS3</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-        width="48"
-        height="48"
-        alt="JavaScript"
-      />
-      <br /><strong>JavaScript</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-        width="48"
-        height="48"
-        alt="Python"
-      />
-      <br /><strong>Python</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-        width="48"
-        height="48"
-        alt="Git"
-      />
-      <br /><strong>Git</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="Npm"
-      />
-      <br /><strong>Npm</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
-        width="48"
-        height="48"
-        alt="Jest"
-      />
-      <br /><strong>Webpack</strong>
-    </td>
-        <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
-        width="48"
-        height="48"
-        alt="Jest"
-      />
-      <br /><strong>Jest</strong>
-    </td>
-  </tr>
-</table>
-
-
 ## Stats 📈
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevleo&theme=react&layout=compact"
@@ -164,4 +79,5 @@ date-fns
 [TailwindCSS-url]: https://tailwindcss.com/
 [MongoDB]: https://img.shields.io/badge/mongodb-20232A?style=for-the-badge&logo=mongodb
 [MongoDB-url]: https://www.mongodb.com/
-
+[Git]: https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git
+[Git-url]: https://git-scm.com/
