@@ -25,12 +25,7 @@ Currently working on [YoGato](https://github.com/sevleo/YoGato) - yoga sequence 
 
 ## My Stack
 
-### Tools
-[![Git][Git]][Git-url]
-[![Github][Github]][Github-url]
-[![visualstudiocode][visualstudiocode]][visualstudiocode-url]
-[![npm][npm]][npm-url]
-[![webpack][webpack]][webpack-url]
+
 
 ### Languages
 [![Typescript][Typescript]][Typescript-url]
@@ -51,6 +46,12 @@ Currently working on [YoGato](https://github.com/sevleo/YoGato) - yoga sequence 
 [![Adaptableio][Adaptableio]][Adaptableio-url]
 [![Netlify][Netlify]][Netlify-url]
 
+### Tools
+[![Git][Git]][Git-url]
+[![Github][Github]][Github-url]
+[![visualstudiocode][visualstudiocode]][visualstudiocode-url]
+[![npm][npm]][npm-url]
+[![webpack][webpack]][webpack-url]
 
 ### Other
 [![Jest][Jest]][Jest-url]
