@@ -37,7 +37,7 @@ Currently working on [YoGato](https://github.com/sevleo/YoGato) - yoga sequence 
 [![Javascript][Javascript]][Javascript-url]
 [![Python][Python]][Python-url]
 [![HTML5][HTML5][]]
-[![CSS3][CSS3][]]
+[![CSS3]]
 
 ### Frameworks/Libraries
 [![React][React.js]][React-url]
