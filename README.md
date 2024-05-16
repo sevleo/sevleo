@@ -86,7 +86,7 @@ date-fns
 [Git-url]: https://git-scm.com/
 [Github]: https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github
 [Github-url]: https://github.com/
-[visualstudiocode]: https://img.shields.io/badge/visualstudiocode-20232A?style=for-the-badge&logo=visualstudiocode
+[visualstudiocode]: https://img.shields.io/badge/VSCode-20232A?style=for-the-badge&logo=visualstudiocode
 [visualstudiocode-url]: https://code.visualstudio.com/
 [npm]: https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm
 [npm-url]: https://www.npmjs.com/
