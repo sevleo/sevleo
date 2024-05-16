@@ -27,6 +27,7 @@ Currently working on [YoGato](https://github.com/sevleo/YoGato) - yoga sequence 
 
 ### Tools
 [![Git][Git]][Git-url]
+[![Github][Github]][Github-url]
 GitHub VSCode npm webpack
 
 ### Languages
@@ -81,3 +82,5 @@ date-fns
 [MongoDB-url]: https://www.mongodb.com/
 [Git]: https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git
 [Git-url]: https://git-scm.com/
+[Github]: https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github
+[Github-url]: https://github.com/
