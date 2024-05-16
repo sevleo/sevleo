@@ -36,8 +36,8 @@ Currently working on [YoGato](https://github.com/sevleo/YoGato) - yoga sequence 
 [![Typescript][Typescript]][Typescript-url]
 [![Javascript][Javascript]][Javascript-url]
 [![Python][Python]][Python-url]
-![HTML5]
-![CSS3]
+![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=CSS3)
 
 ### Frameworks/Libraries
 [![React][React.js]][React-url]
