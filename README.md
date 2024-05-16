@@ -36,8 +36,8 @@ Currently working on [YoGato](https://github.com/sevleo/YoGato) - yoga sequence 
 [![Typescript][Typescript]][Typescript-url]
 [![Javascript][Javascript]][Javascript-url]
 [![Python][Python]][Python-url]
-![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=CSS3)
+![HTML5]
+![CSS3]
 
 ### Frameworks/Libraries
 [![React][React.js]][React-url]
@@ -48,8 +48,9 @@ Currently working on [YoGato](https://github.com/sevleo/YoGato) - yoga sequence 
 [![MongoDB][MongoDB]][MongoDB-url]
 
 ### Hosting
-Adaptable.io
-Netlify
+[![Adaptableio][Adaptableio]][Adaptableio-url]
+[![Netlify][Netlify]][Netlify-url]
+
 
 ### Other
 Jest
@@ -96,3 +97,11 @@ date-fns
 [Python-url]: https://www.python.org/
 [HTML5]: https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=HTML5
 [CSS3]: https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=CSS3
+[Adaptableio]: https://img.shields.io/badge/Adaptable.io-20232A?style=for-the-badge&logo=Adaptable.io
+[Adaptableio-url]: https://adaptable.io/
+[Netlify]: https://img.shields.io/badge/Netlify-20232A?style=for-the-badge&logo=Netlify
+[Netlify-url]: https://www.netlify.com/
+
+
+[![Adaptableio][Adaptableio]][Adaptableio-url]
+[![Netlify][Netlify]][Netlify-url]
