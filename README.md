@@ -1,4 +1,4 @@
-# Hola 👋 I'm Sev, a Full Stack Engineer!
+![image](https://github.com/sevleo/sevleo/assets/127000230/5ee8f834-e4ea-4765-82bc-404287e544d6)# Hola 👋 I'm Sev, a Full Stack Engineer!
 
 
 Currently working on [YoGato](https://github.com/sevleo/YoGato) - yoga sequence builder with voice announcements.
@@ -26,10 +26,14 @@ Currently working on [YoGato](https://github.com/sevleo/YoGato) - yoga sequence 
 ## My Stack
 
 ### Tools
+Git GitHub VSCode npm webpack
 
 ### Languages
 [![Typescript][Typescript]][Typescript-url]
 [![Javascript][Javascript]][Javascript-url]
+Python
+HTML5
+CSS3
 
 ### Frameworks/Libraries
 [![React][React.js]][React-url]
@@ -40,6 +44,16 @@ Currently working on [YoGato](https://github.com/sevleo/YoGato) - yoga sequence 
 [![MongoDB][MongoDB]][MongoDB-url]
 
 ### Hosting
+Adaptable.io
+Netlify
+
+### Other
+Jest
+DND Kit
+MongooseJs
+PassportJs
+date-fns
+
 
 
 
