@@ -103,7 +103,7 @@ Currently working on [YoGato](https://github.com/sevleo/YoGato) - yoga sequence 
 
 [Jest]: https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=Jest
 [Jest-url]: https://www.netlify.com/
-[DNDKit]: https://img.shields.io/badge/DND+Kit-20232A?style=for-the-badge&logo=DNDKit
+[DNDKit]: https://img.shields.io/badge/DND%20Kit-20232A?style=for-the-badge&logo=DNDKit
 [DNDKit-url]: https://dndkit.com/
 [MongooseJs]: https://img.shields.io/badge/MongooseJs-20232A?style=for-the-badge&logo=MongooseJs
 [MongooseJs-url]: https://mongoosejs.com/
