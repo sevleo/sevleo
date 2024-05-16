@@ -1,4 +1,4 @@
-![image](https://github.com/sevleo/sevleo/assets/127000230/5ee8f834-e4ea-4765-82bc-404287e544d6)# Hola 👋 I'm Sev, a Full Stack Engineer!
+# Hola 👋 I'm Sev, a Full Stack Engineer!
 
 
 Currently working on [YoGato](https://github.com/sevleo/YoGato) - yoga sequence builder with voice announcements.
