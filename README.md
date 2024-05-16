@@ -23,14 +23,30 @@ Currently working on [YoGato](https://github.com/sevleo/YoGato) - yoga sequence 
 - [Rock Paper Scissors](https://github.com/sevleo/rock-paper-scissors)
 
 
-## Technologies & Tools 🔧
+## My Stack
 
-[![React][React.js]][React-url]
-[![NodeJs][Node.js]][Node-url]
+### Tools
+
+### Languages
 [![Typescript][Typescript]][Typescript-url]
 [![Javascript][Javascript]][Javascript-url]
+
+### Frameworks/Libraries
+[![React][React.js]][React-url]
+[![NodeJs][Node.js]][Node-url]
 [![TailwindCSS][TailwindCSS]][TailwindCSS-url]
+
+### Databases
 [![MongoDB][MongoDB]][MongoDB-url]
+
+### Hosting
+
+
+
+
+
+
+
 
 <table>
   <tr>
