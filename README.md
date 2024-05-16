@@ -107,7 +107,7 @@ Currently working on [YoGato](https://github.com/sevleo/YoGato) - yoga sequence 
 [DNDKit-url]: https://dndkit.com/
 [MongooseJs]: https://img.shields.io/badge/MongooseJs-20232A?style=for-the-badge&logo=MongooseJs
 [MongooseJs-url]: https://mongoosejs.com/
-[PassportJs]: https://img.shields.io/badge/PassportJs-20232A?style=for-the-badge&logo=PassportJs
+[PassportJs]: https://img.shields.io/badge/PassportJS-20232A?style=for-the-badge&logo=Passport
 [PassportJs-url]: https://www.passportjs.org/
 [datefns]: https://img.shields.io/badge/datefns-20232A?style=for-the-badge&logo=datefns
 [datefns-url]: https://date-fns.org/
