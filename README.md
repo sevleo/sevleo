@@ -28,20 +28,20 @@
 <div align="center">
   
 ## Other projects:
-- [Shopping Cart](https://github.com/sevleo/shopping-cart)
-- [Memory Card](https://github.com/sevleo/memory-card)
-- [CV App](https://github.com/sevleo/cv-app)
-- [Battleship](https://github.com/sevleo/battleship)
-- [NovaClima](https://github.com/sevleo/NovaClima)
-- [Nova Task](https://github.com/sevleo/nova_task)
-- [Restaurant Page](https://github.com/sevleo/restaurant_page)
-- [Tic Tac Toe](https://github.com/sevleo/tic_tac_toe)
-- [Library](https://github.com/sevleo/library)
-- [Admin Dashboard](https://github.com/sevleo/admin_dashboard)
-- [Sign-up Form](https://github.com/sevleo/Sign-up_Form)
-- [Calculator](https://github.com/sevleo/calculator)
-- [Etch-a-Sketch](https://github.com/sevleo/Etch-a-Sketch)
-- [Rock Paper Scissors](https://github.com/sevleo/rock-paper-scissors)
+[Shopping Cart](https://github.com/sevleo/shopping-cart)
+[Memory Card](https://github.com/sevleo/memory-card)
+[CV App](https://github.com/sevleo/cv-app)
+[Battleship](https://github.com/sevleo/battleship)
+[NovaClima](https://github.com/sevleo/NovaClima)
+[Nova Task](https://github.com/sevleo/nova_task)
+[Restaurant Page](https://github.com/sevleo/restaurant_page)
+[Tic Tac Toe](https://github.com/sevleo/tic_tac_toe)
+[Library](https://github.com/sevleo/library)
+[Admin Dashboard](https://github.com/sevleo/admin_dashboard)
+[Sign-up Form](https://github.com/sevleo/Sign-up_Form)
+[Calculator](https://github.com/sevleo/calculator)
+[Etch-a-Sketch](https://github.com/sevleo/Etch-a-Sketch)
+[Rock Paper Scissors](https://github.com/sevleo/rock-paper-scissors)
 
 <br>
 <br>
