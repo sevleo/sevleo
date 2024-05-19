@@ -7,7 +7,106 @@
 <br>
 
   
+<div align="center">
 
+## My Stack
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=#3178C6" alt="Typescript">
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" alt="Javascript">
+      </a>
+      <a href="https://www.python.org/">
+        <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=#3776AB" alt="Python">
+      </a>
+      <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=HTML5" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=CSS3" alt="CSS3">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frameworks/Libraries</strong></td>
+    <td>
+      <a href="https://reactjs.org/">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js">
+      </a>
+      <a href="https://nodejs.org/en">
+        <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=#5FA04E" alt="Node.js">
+      </a>
+      <a href="https://tailwindcss.com/">
+        <img src="https://img.shields.io/badge/tailwindcss-20232A?style=for-the-badge&logo=tailwindcss&logoColor=#06B6D4" alt="TailwindCSS">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <a href="https://www.mongodb.com/">
+        <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb" alt="MongoDB">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Hosting</strong></td>
+    <td>
+      <a href="https://adaptable.io/">
+        <img src="https://img.shields.io/badge/Adaptable.io-20232A?style=for-the-badge&logo=Adaptable.io" alt="Adaptableio">
+      </a>
+      <a href="https://www.netlify.com/">
+        <img src="https://img.shields.io/badge/Netlify-20232A?style=for-the-badge&logo=Netlify" alt="Netlify">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>
+      <a href="https://git-scm.com/">
+        <img src="https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git" alt="Git">
+      </a>
+      <a href="https://github.com/">
+        <img src="https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github" alt="Github">
+      </a>
+      <a href="https://code.visualstudio.com/">
+        <img src="https://img.shields.io/badge/VSCode-20232A?style=for-the-badge&logo=visualstudiocode" alt="visualstudiocode">
+      </a>
+      <a href="https://www.npmjs.com/">
+        <img src="https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm" alt="npm">
+      </a>
+      <a href="https://webpack.js.org/">
+        <img src="https://img.shields.io/badge/webpack-20232A?style=for-the-badge&logo=webpack" alt="webpack">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Other</strong></td>
+    <td>
+      <a href="https://jestjs.io/">
+        <img src="https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=Jest" alt="Jest">
+      </a>
+      <a href="https://dndkit.com/">
+        <img src="https://img.shields.io/badge/DND%20Kit-20232A?style=for-the-badge&logo=DNDKit" alt="DNDKit">
+      </a>
+      <a href="https://mongoosejs.com/">
+        <img src="https://img.shields.io/badge/MongooseJs-20232A?style=for-the-badge&logo=MongooseJs" alt="MongooseJs">
+      </a>
+      <a href="http://www.passportjs.org/">
+        <img src="https://img.shields.io/badge/PassportJS-20232A?style=for-the-badge&logo=Passport" alt="PassportJs">
+      </a>
+      <a href="https://date-fns.org/">
+        <img src="https://img.shields.io/badge/datefns-20232A?style=for-the-badge&logo=datefns" alt="datefns">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
 
 
 
