@@ -1,4 +1,4 @@
-<h1 align="center">Seva Leo, <span><h6>full stack developer.</h6></span></h1>
+<h1 align="center">Seva Leo <span><h6>Full Stack Developer.</h6></span></h1>
 
 
 Currently working on [YoGato](https://github.com/sevleo/YoGato) - yoga sequence builder with voice announcements.
