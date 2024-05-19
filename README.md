@@ -2,7 +2,9 @@
 
 
 
-<p align="center">Currently working on [YoGato](https://github.com/sevleo/YoGato) - yoga sequence builder with voice announcements.</p>
+<p align="center">Currently working on     <a href="https://github.com/sevleo/YoGato">
+        Currently working on YoGato - yoga sequence builder with voice announcements.
+    </a> - yoga sequence builder with voice announcements.</p>
 <br>
 <br>
 
