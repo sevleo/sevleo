@@ -13,6 +13,102 @@
 
 ## My Stack
 
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://img.shields.io/badge/Typescript-007ACC?style=flat&logo=typescript&logoColor=white" alt="Typescript">
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="Javascript">
+      </a>
+      <a href="https://www.python.org/">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+      </a>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frameworks/Libraries</strong></td>
+    <td>
+      <a href="https://reactjs.org/">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React.js">
+      </a>
+      <a href="https://nodejs.org/">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
+      </a>
+      <a href="https://tailwindcss.com/">
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <a href="https://www.mongodb.com/">
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Hosting</strong></td>
+    <td>
+      <a href="https://adaptable.io/">
+        <img src="https://img.shields.io/badge/Adaptable.io-007ACC?style=flat&logo=adaptable&logoColor=white" alt="Adaptableio">
+      </a>
+      <a href="https://www.netlify.com/">
+        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>
+      <a href="https://git-scm.com/">
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+      </a>
+      <a href="https://github.com/">
+        <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white" alt="Github">
+      </a>
+      <a href="https://code.visualstudio.com/">
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="visualstudiocode">
+      </a>
+      <a href="https://www.npmjs.com/">
+        <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" alt="npm">
+      </a>
+      <a href="https://webpack.js.org/">
+        <img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat&logo=webpack&logoColor=black" alt="webpack">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Other</strong></td>
+    <td>
+      <a href="https://jestjs.io/">
+        <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest">
+      </a>
+      <a href="https://dndkit.com/">
+        <img src="https://img.shields.io/badge/DNDKit-007ACC?style=flat&logo=dndkit&logoColor=white" alt="DNDKit">
+      </a>
+      <a href="https://mongoosejs.com/">
+        <img src="https://img.shields.io/badge/MongooseJs-47A248?style=flat&logo=mongoose&logoColor=white" alt="MongooseJs">
+      </a>
+      <a href="http://www.passportjs.org/">
+        <img src="https://img.shields.io/badge/PassportJs-34E27A?style=flat&logo=passport&logoColor=white" alt="PassportJs">
+      </a>
+      <a href="https://date-fns.org/">
+        <img src="https://img.shields.io/badge/datefns-007ACC?style=flat&logo=datefns&logoColor=white" alt="datefns">
+      </a>
+    </td>
+  </tr>
+</table>
+
 | Category               | Technologies                                                                                                                                                                                                                                       |
 |------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Languages**          | [![Typescript][Typescript]][Typescript-url] [![Javascript][Javascript]][Javascript-url] [![Python][Python]][Python-url] ![HTML5] ![CSS3]                                                                                                            |
