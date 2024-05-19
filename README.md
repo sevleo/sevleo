@@ -20,7 +20,7 @@
     <td><strong>Languages</strong></td>
     <td>
       <a href="https://www.typescriptlang.org/">
-        <img src="https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=#3178C6" alt="Typescript">
+        <img src="https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=#3178C6">
       </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src="https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" alt="Javascript">
