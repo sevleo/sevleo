@@ -13,41 +13,8 @@
 
 ## My Stack
 
-### Languages
-[![Typescript][Typescript]][Typescript-url]
-[![Javascript][Javascript]][Javascript-url]
-[![Python][Python]][Python-url]
-![HTML5]
-![CSS3]
-
-### Frameworks/Libraries
-[![React][React.js]][React-url]
-[![NodeJs][Node.js]][Node-url]
-[![TailwindCSS][TailwindCSS]][TailwindCSS-url]
-
-### Databases
-[![MongoDB][MongoDB]][MongoDB-url]
-
-### Hosting
-[![Adaptableio][Adaptableio]][Adaptableio-url]
-[![Netlify][Netlify]][Netlify-url]
-
-### Tools
-[![Git][Git]][Git-url]
-[![Github][Github]][Github-url]
-[![visualstudiocode][visualstudiocode]][visualstudiocode-url]
-[![npm][npm]][npm-url]
-[![webpack][webpack]][webpack-url]
-
-### Other
-[![Jest][Jest]][Jest-url]
-[![DNDKit][DNDKit]][DNDKit-url]
-[![MongooseJs][MongooseJs]][MongooseJs-url]
-[![PassportJs][PassportJs]][PassportJs-url]
-[![datefns][datefns]][datefns-url]
-
 | Category               | Technologies                                                                                                                                                                                                                                       |
-|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Languages**          | [![Typescript][Typescript]][Typescript-url] [![Javascript][Javascript]][Javascript-url] [![Python][Python]][Python-url] ![HTML5] ![CSS3]                                                                                                            |
 | **Frameworks/Libraries** | [![React][React.js]][React-url] [![NodeJs][Node.js]][Node-url] [![TailwindCSS][TailwindCSS]][TailwindCSS-url]                                                                                                                                    |
 | **Databases**          | [![MongoDB][MongoDB]][MongoDB-url]                                                                                                                                                                                                                 |
