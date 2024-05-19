@@ -26,6 +26,7 @@
 </div>
 
 <div align="center">
+  
 ## Other projects:
 - [Shopping Cart](https://github.com/sevleo/shopping-cart)
 - [Memory Card](https://github.com/sevleo/memory-card)
