@@ -1,4 +1,6 @@
 <h1 align="center" color="red">Seva Leo <span><h6>Full Stack Developer.</h6></span></h1>
+    <img src="https://img.shields.io/badge/Full_Stack_Developer-red" alt="Full Stack Developer">
+
 
 
 Currently working on [YoGato](https://github.com/sevleo/YoGato) - yoga sequence builder with voice announcements.
