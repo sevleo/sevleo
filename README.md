@@ -21,8 +21,11 @@
 | **Tools**              | [![Git][Git]][Git-url] [![Github][Github]][Github-url] [![visualstudiocode][visualstudiocode]][visualstudiocode-url] [![npm][npm]][npm-url] [![webpack][webpack]][webpack-url]                                                                      |
 | **Other**              | [![Jest][Jest]][Jest-url] [![DNDKit][DNDKit]][DNDKit-url] [![MongooseJs][MongooseJs]][MongooseJs-url] [![PassportJs][PassportJs]][PassportJs-url] [![datefns][datefns]][datefns-url]                                                               |                                      |
 
+<br>
+<br>
 </div>
 
+<div align="center">
 ## Other projects:
 - [Shopping Cart](https://github.com/sevleo/shopping-cart)
 - [Memory Card](https://github.com/sevleo/memory-card)
@@ -39,8 +42,12 @@
 - [Etch-a-Sketch](https://github.com/sevleo/Etch-a-Sketch)
 - [Rock Paper Scissors](https://github.com/sevleo/rock-paper-scissors)
 
+<br>
+<br>
+</div>
 
 
+<div align="center">
 ## Stats 📈
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevleo&theme=react&layout=compact"
@@ -50,6 +57,7 @@
   src="https://github-readme-streak-stats.herokuapp.com/?user=sevleo&&theme=react&&hide_border=true"
 />
 <br/>
+</div>
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
