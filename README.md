@@ -29,6 +29,7 @@
   
 ## Other projects:
 [Shopping Cart](https://github.com/sevleo/shopping-cart)
+<br>
 [Memory Card](https://github.com/sevleo/memory-card)
 [CV App](https://github.com/sevleo/cv-app)
 [Battleship](https://github.com/sevleo/battleship)
