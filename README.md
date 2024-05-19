@@ -31,17 +31,29 @@
 [Shopping Cart](https://github.com/sevleo/shopping-cart)
 <br>
 [Memory Card](https://github.com/sevleo/memory-card)
+<br>
 [CV App](https://github.com/sevleo/cv-app)
+<br>
 [Battleship](https://github.com/sevleo/battleship)
+<br>
 [NovaClima](https://github.com/sevleo/NovaClima)
+<br>
 [Nova Task](https://github.com/sevleo/nova_task)
+<br>
 [Restaurant Page](https://github.com/sevleo/restaurant_page)
+<br>
 [Tic Tac Toe](https://github.com/sevleo/tic_tac_toe)
+<br>
 [Library](https://github.com/sevleo/library)
+<br>
 [Admin Dashboard](https://github.com/sevleo/admin_dashboard)
+<br>
 [Sign-up Form](https://github.com/sevleo/Sign-up_Form)
+<br>
 [Calculator](https://github.com/sevleo/calculator)
+<br>
 [Etch-a-Sketch](https://github.com/sevleo/Etch-a-Sketch)
+<br>
 [Rock Paper Scissors](https://github.com/sevleo/rock-paper-scissors)
 
 <br>
