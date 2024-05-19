@@ -13,7 +13,6 @@
 
 ## My Stack
 
-| Category               | Technologies                                                                                                                                                                                                                                       |
 |------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Languages**          | [![Typescript][Typescript]][Typescript-url] [![Javascript][Javascript]][Javascript-url] [![Python][Python]][Python-url] ![HTML5] ![CSS3]                                                                                                            |
 | **Frameworks/Libraries** | [![React][React.js]][React-url] [![NodeJs][Node.js]][Node-url] [![TailwindCSS][TailwindCSS]][TailwindCSS-url]                                                                                                                                    |
