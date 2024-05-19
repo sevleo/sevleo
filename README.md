@@ -1,8 +1,8 @@
-# Hola 👋 I'm Sev, a Full Stack Engineer!
+<h1 align="center">Seva Leonov, <span><h6>full stack developer.</h6></span></h1>
 
 
 Currently working on [YoGato](https://github.com/sevleo/YoGato) - yoga sequence builder with voice announcements.
-<h1 align="center">Seva Leonov, <span><h6>soy un simple auditor.</h6></span></h1>
+
   
 
 
