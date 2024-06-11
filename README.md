@@ -2,8 +2,8 @@
 
 
 
-<p align="center">Currently working on:
-  <a href="https://github.com/sevleo/YoGato"> YoGato </a> - yoga sequence builder with voice announcements.</p>
+<p align="center">Currently working on: </p>
+  <p align="center"><a href="https://github.com/sevleo/YoGato"> YoGato </a> - yoga sequence builder with voice announcements.</p>
   <p align="center">Grinding LeetCode.</p>
 <br>
 <br>
