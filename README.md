@@ -3,8 +3,9 @@
 
 
 <p align="center">Currently working on: </p>
-  <p align="center"><a href="https://github.com/sevleo/YoGato"> YoGato </a> - yoga sequence builder with voice announcements.</p>
-  <p align="center">Grinding LeetCode.</p>
+  <p align="center">1. Grinding LeetCode.</p>
+  <p align="center"><a href="https://github.com/sevleo/YoGato">2. YoGato </a> - yoga sequence builder with voice announcements.</p>
+
 <br>
 <br>
 
