@@ -1,6 +1,8 @@
 <h1 align="center" color="red">Seva Leo <span><h6>Full Stack Developer</h6></span></h1>
+<br>
+<br>
+<br>
 
-  fdfadadaad
 <div align="center">
 
 ## My Stack
