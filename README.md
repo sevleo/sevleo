@@ -1,7 +1,8 @@
 <h1 align="center" color="red">Seva Leo <span><h6>Full Stack Developer</h6></span></h1>
 <br>
 <br>
-<a align="center" href="https://sevaleo.netlify.app">My portfolio</a>
+<p align="center">I'm a full-stack software developer specializing on building fast and responsive websites with React and NodesJS. View my <a align="center" href="https://sevaleo.netlify.app"> portfolio</a>.</p>
+
 <br>
 
 <div align="center">
