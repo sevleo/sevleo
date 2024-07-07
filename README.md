@@ -48,10 +48,10 @@
 [Javascript-url]: https://www.javascript.com/
 [TailwindCSS]: https://img.shields.io/badge/tailwindcss-20232A?style=for-the-badge&logo=tailwindcss&logoColor=#06B6D4
 [TailwindCSS-url]: https://tailwindcss.com/
-[MongoDB]: https://img.shields.io/badge/mysql-20232A?logo=mysql&style=for-the-badge
-[MongoDB-url]: https://www.mysql.com
-[MySQL]: https://img.shields.io/badge/mongodb-20232A?style=for-the-badge&logo=mongodb
-[MySQL-url]: https://www.mongodb.com/
+[MongoDB]: https://img.shields.io/badge/mongodb-20232A?logo=mongodb&style=for-the-badge
+[MongoDB-url]: https://www.mongodb.com/
+[MySQL]: https://img.shields.io/badge/mysql-20232A?style=for-the-badge&logo=mysql
+[MySQL-url]:  https://www.mysql.com
 [Git]: https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git
 [Git-url]: https://git-scm.com/
 [Github]: https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github
