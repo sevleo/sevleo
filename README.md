@@ -18,7 +18,7 @@
 | **Databases**          | [![MongoDB][MongoDB]][MongoDB-url] [![MySQL][MySQL]][MySQL-url]                                                                                                                                                                                                                   |
 | **Hosting**            | [![Adaptableio][Adaptableio]][Adaptableio-url] [![Netlify][Netlify]][Netlify-url]                                                                                                                                                                  |
 | **Tools**              | [![Git][Git]][Git-url] [![Github][Github]][Github-url] [![visualstudiocode][visualstudiocode]][visualstudiocode-url] [![npm][npm]][npm-url] [![webpack][webpack]][webpack-url]                                                                      |
-| **Other**              | [![Jest][Jest]][Jest-url] [![DNDKit][DNDKit]][DNDKit-url] [![MongooseJs][MongooseJs]][MongooseJs-url] [![PassportJs][PassportJs]][PassportJs-url] [![datefns][datefns]][datefns-url]                                                               |                                      |
+| **Other**              | [![Jest][Jest]][Jest-url] [![DNDKit][DNDKit]][DNDKit-url] [![ExpressJs][ExpressJs]][ExpressJs-url] [![MongooseJs][MongooseJs]][MongooseJs-url] [![PassportJs][PassportJs]][PassportJs-url] [![datefns][datefns]][datefns-url]                                                               |                                      |
 
 <br>
 <br>
@@ -75,6 +75,8 @@
 [Jest-url]: https://www.netlify.com/
 [DNDKit]: https://img.shields.io/badge/DND%20Kit-20232A?style=for-the-badge&logo=DNDKit
 [DNDKit-url]: https://dndkit.com/
+[ExpressJs]: https://img.shields.io/badge/expressjs-20232A?logo=express&style=for-the-badge
+[ExpressJs-url]: https://expressjs.com
 [MongooseJs]: https://img.shields.io/badge/MongooseJs-20232A?style=for-the-badge&logo=MongooseJs
 [MongooseJs-url]: https://mongoosejs.com/
 [PassportJs]: https://img.shields.io/badge/PassportJS-20232A?style=for-the-badge&logo=Passport
