@@ -15,7 +15,7 @@
 |------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Languages**          | [![Typescript][Typescript]][Typescript-url] [![Javascript][Javascript]][Javascript-url] [![Python][Python]][Python-url] ![HTML5] ![CSS3]                                                                                                            |
 | **Frameworks/Libraries** | [![React][React.js]][React-url] [![NodeJs][Node.js]][Node-url] [![TailwindCSS][TailwindCSS]][TailwindCSS-url]                                                                                                                                    |
-| **Databases**          | [![MongoDB][MongoDB]][MongoDB-url] [![MongoDB][MongoDB]][MongoDB-url]                                                                                                                                                                                                                   |
+| **Databases**          | [![MongoDB][MongoDB]][MongoDB-url] [![MySQL][MySQL]][MySQL-url]                                                                                                                                                                                                                   |
 | **Hosting**            | [![Adaptableio][Adaptableio]][Adaptableio-url] [![Netlify][Netlify]][Netlify-url]                                                                                                                                                                  |
 | **Tools**              | [![Git][Git]][Git-url] [![Github][Github]][Github-url] [![visualstudiocode][visualstudiocode]][visualstudiocode-url] [![npm][npm]][npm-url] [![webpack][webpack]][webpack-url]                                                                      |
 | **Other**              | [![Jest][Jest]][Jest-url] [![DNDKit][DNDKit]][DNDKit-url] [![MongooseJs][MongooseJs]][MongooseJs-url] [![PassportJs][PassportJs]][PassportJs-url] [![datefns][datefns]][datefns-url]                                                               |                                      |
@@ -48,8 +48,10 @@
 [Javascript-url]: https://www.javascript.com/
 [TailwindCSS]: https://img.shields.io/badge/tailwindcss-20232A?style=for-the-badge&logo=tailwindcss&logoColor=#06B6D4
 [TailwindCSS-url]: https://tailwindcss.com/
-[MongoDB]: https://img.shields.io/badge/mongodb-20232A?style=for-the-badge&logo=mongodb
-[MongoDB-url]: https://www.mongodb.com/
+[MongoDB]: https://img.shields.io/badge/mysql-20232A?logo=mysql&style=for-the-badge
+[MongoDB-url]: https://www.mysql.com
+[MySQL]: https://img.shields.io/badge/mongodb-20232A?style=for-the-badge&logo=mongodb
+[MySQL-url]: https://www.mongodb.com/
 [Git]: https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git
 [Git-url]: https://git-scm.com/
 [Github]: https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github
