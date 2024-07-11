@@ -77,7 +77,7 @@
 [Jest-url]: https://www.netlify.com/
 [DNDKit]: https://img.shields.io/badge/DND%20Kit-20232A?style=for-the-badge&logo=DNDKit
 [DNDKit-url]: https://dndkit.com/
-[ExpressJs]: https://img.shields.io/badge/expressjs-20232A?logo=express&style=for-the-badge
+[ExpressJs]: https://img.shields.io/badge/express-20232A?logo=express&style=for-the-badge
 [ExpressJs-url]: https://expressjs.com
 [MongooseJs]: https://img.shields.io/badge/Mongoose.js-20232A?style=for-the-badge&logo=Mongoose
 [MongooseJs-url]: https://mongoosejs.com/
