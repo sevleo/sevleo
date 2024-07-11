@@ -81,7 +81,7 @@
 [ExpressJs-url]: https://expressjs.com
 [MongooseJs]: https://img.shields.io/badge/Mongoose.js-20232A?style=for-the-badge&logo=Mongoose
 [MongooseJs-url]: https://mongoosejs.com/
-[PassportJs]: https://img.shields.io/badge/PassportJS-20232A?style=for-the-badge&logo=Passport
+[PassportJs]: https://img.shields.io/badge/Passport.js-20232A?style=for-the-badge&logo=Passport
 [PassportJs-url]: https://www.passportjs.org/
 [datefns]: https://img.shields.io/badge/datefns-20232A?style=for-the-badge&logo=datefns
 [datefns-url]: https://date-fns.org/
