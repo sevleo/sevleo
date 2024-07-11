@@ -79,7 +79,7 @@
 [DNDKit-url]: https://dndkit.com/
 [ExpressJs]: https://img.shields.io/badge/expressjs-20232A?logo=express&style=for-the-badge
 [ExpressJs-url]: https://expressjs.com
-[MongooseJs]: https://img.shields.io/badge/MongooseJs-20232A?style=for-the-badge&logo=MongooseJs
+[MongooseJs]: https://img.shields.io/badge/Mongoose.js-20232A?style=for-the-badge&logo=Mongoose
 [MongooseJs-url]: https://mongoosejs.com/
 [PassportJs]: https://img.shields.io/badge/PassportJS-20232A?style=for-the-badge&logo=Passport
 [PassportJs-url]: https://www.passportjs.org/
