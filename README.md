@@ -14,7 +14,7 @@
 | Category               | Technologies                                                                                                                                                                                                                                       |
 |------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Languages**          | [![Typescript][Typescript]][Typescript-url] [![Javascript][Javascript]][Javascript-url] [![Python][Python]][Python-url] ![HTML5] ![CSS3]                                                                                                            |
-| **Frameworks/Libraries** | [![React][React.js]][React-url] [![NodeJs][Node.js]][Node-url] [![TailwindCSS][TailwindCSS]][TailwindCSS-url]                                                                                                                                    |
+| **Frameworks/Libraries** | [![React][React.js]][React-url] [![Vue][Vue.js]][Vue-url] [![NodeJs][Node.js]][Node-url] [![TailwindCSS][TailwindCSS]][TailwindCSS-url]                                                                                                                                    |
 | **Databases**          | [![MongoDB][MongoDB]][MongoDB-url] [![MySQL][MySQL]][MySQL-url]                                                                                                                                                                                                                   |
 | **Hosting**            | [![Adaptableio][Adaptableio]][Adaptableio-url] [![Netlify][Netlify]][Netlify-url]                                                                                                                                                                  |
 | **Tools**              | [![Git][Git]][Git-url] [![Github][Github]][Github-url] [![visualstudiocode][visualstudiocode]][visualstudiocode-url] [![npm][npm]][npm-url] [![webpack][webpack]][webpack-url]                                                                      |
@@ -40,6 +40,8 @@
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[Vue.js]: https://img.shields.io/badge/vue.js-20232A?style=for-the-badge&logo=vue.js
+[Vue-url]: https://vuejs.org
 [Node.js]: https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=#5FA04E
 [Node-url]: https://nodejs.org/en
 [Typescript]: https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=#3178C6
