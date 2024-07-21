@@ -18,7 +18,7 @@
 | **Libraries**               | [![ExpressJs][ExpressJs]][ExpressJs-url] [![MongooseJs][MongooseJs]][MongooseJs-url] [![PassportJs][PassportJs]][PassportJs-url] [![SocketIo][SocketIo]][SocketIo-url] [![WebSockets][WebSockets]][WebSockets-url] [![datefns][datefns]][datefns-url]  [![DNDKit][DNDKit]][DNDKit-url] [![Jest][Jest]][Jest-url]                       |
 | **Databases**           | [![MongoDB][MongoDB]][MongoDB-url] [![MySQL][MySQL]][MySQL-url]                                                                                                                                                                                    |
 | **Hosting**             | [![Adaptableio][Adaptableio]][Adaptableio-url] [![Netlify][Netlify]][Netlify-url]                                                                                                                                                                  |
-| **Dev Tools**               | [![Git][Git]][Git-url] [![Github][Github]][Github-url] [![visualstudiocode][visualstudiocode]][visualstudiocode-url] [![npm][npm]][npm-url] [![webpack][webpack]][webpack-url]                                                                      |                                      |
+
 
 <br>
 <br>
