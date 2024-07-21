@@ -15,7 +15,7 @@
 |-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Languages**           | [![Typescript][Typescript]][Typescript-url] [![Javascript][Javascript]][Javascript-url] [![Python][Python]][Python-url] ![HTML5] ![CSS3]                                                                                                            |
 | **Frameworks**| [![React][React.js]][React-url] [![Vue][Vue.js]][Vue-url] [![TailwindCSS][TailwindCSS]][TailwindCSS-url] [![NodeJs][Node.js]][Node-url]                                                                                                             |
-| **Libraries**               | [![ExpressJs][ExpressJs]][ExpressJs-url] [![MongooseJs][MongooseJs]][MongooseJs-url] [![PassportJs][PassportJs]][PassportJs-url] [![Jest][Jest]][Jest-url] [![DNDKit][DNDKit]][DNDKit-url]  [![datefns][datefns]][datefns-url]                        |
+| **Libraries**               | [![ExpressJs][ExpressJs]][ExpressJs-url] [![MongooseJs][MongooseJs]][MongooseJs-url] [![PassportJs][PassportJs]][PassportJs-url] [![SocketIo][SocketIo]][SocketIo-url] [![WebSockets][WebSockets]][WebSockets-url] [![Jest][Jest]][Jest-url] [![DNDKit][DNDKit]][DNDKit-url]  [![datefns][datefns]][datefns-url]                        |
 | **Databases**           | [![MongoDB][MongoDB]][MongoDB-url] [![MySQL][MySQL]][MySQL-url]                                                                                                                                                                                    |
 | **Hosting**             | [![Adaptableio][Adaptableio]][Adaptableio-url] [![Netlify][Netlify]][Netlify-url]                                                                                                                                                                  |
 | **Dev Tools**               | [![Git][Git]][Git-url] [![Github][Github]][Github-url] [![visualstudiocode][visualstudiocode]][visualstudiocode-url] [![npm][npm]][npm-url] [![webpack][webpack]][webpack-url]                                                                      |                                      |
@@ -85,3 +85,7 @@
 [PassportJs-url]: https://www.passportjs.org/
 [datefns]: https://img.shields.io/badge/datefns-20232A?style=for-the-badge&logo=datefns
 [datefns-url]: https://date-fns.org/
+[SocketIo]: https://img.shields.io/badge/socket.io-20232A?style=for-the-badge&logo=socketdotio
+[SocketIo-url]: https://socket.io/
+[WebSockets]: https://img.shields.io/badge/WebSockets-20232A?style=for-the-badge&logo=websocket
+[WebSockets-url]: https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API
