@@ -1,7 +1,7 @@
 <h1 align="center" color="red">Seva Leo <span><h6>Full Stack Developer</h6></span></h1>
 <br>
 <br>
-<p align="center">I'm a full-stack software developer specializing on building fast and responsive websites with React and NodesJS.</p>
+<p align="center">I'm a full-stack software developer specializing on building fast and responsive websites with React, Vue, and NodesJS.</p>
 <p align="center"><a align="center" href="https://sevaleo.netlify.app"> Check out my portfolio</a></p>
 
 <br>
