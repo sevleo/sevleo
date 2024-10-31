@@ -32,7 +32,7 @@
 />
 </br>
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=sevleo&&theme=react&&hide_border=true"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=sevleo&&theme=react&&hide_border=false"
 />
 <br/>
 </div>
