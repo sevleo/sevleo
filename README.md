@@ -17,7 +17,7 @@
 />
 </br>
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=sevleo&&theme=react&&hide_border=false"
+  src="![sevleo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sevleo&theme=vue-dark&hide_border=true)"
 />
 <br/>
 </div>
