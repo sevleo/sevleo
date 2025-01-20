@@ -2,7 +2,7 @@
 <br>
 <br>
 <p align="center">I'm a full-stack software developer specializing on building fast and responsive websites with React, Vue, and NodesJS</p>
-<p align="center"><a align="center" href="https://sevaleo.netlify.app"> Check out my portfolio</a></p>
+<p align="center"><a align="center" href="https://sleo.dev/portfolio"> Check out my portfolio</a></p>
 
 <br>
 
